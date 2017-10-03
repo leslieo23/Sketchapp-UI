@@ -23,3 +23,14 @@ dial interface on iPhone 7 plus
 ![iphone 7 plus copy](https://user-images.githubusercontent.com/14809215/31152160-dd5adfac-a868-11e7-9302-f1555e12d9cf.png)
 
 incoming call on iPhone 7 plus
+
+____________________________________________________________
+
+![iphone 7 plus copy 3](https://user-images.githubusercontent.com/14809215/31152252-4645afe2-a869-11e7-87d7-c441c83a3c9e.png)
+
+Portfolio interface on iPhone 7 plus
+
+
+![ipad](https://user-images.githubusercontent.com/14809215/31152255-486be728-a869-11e7-8f99-9b3040781c0c.png)
+
+About me page on iPad
