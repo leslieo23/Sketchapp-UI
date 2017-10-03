@@ -1,5 +1,5 @@
 # Sketchapp-UI
-List of UI work using sketchapp
+List of UI work using Sketch
 
 
 
