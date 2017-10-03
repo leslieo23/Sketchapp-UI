@@ -8,7 +8,8 @@ List of UI work using sketchapp
 Front page of a news feed on iPhone 7 plus
 
 
-![article](https://user-images.githubusercontent.com/14809215/31132904-fe8c0eae-a82b-11e7-991c-31f0e45f6119.png)
+![article](https://user-images.githubusercontent.com/14809215/31152445-18040eac-a86a-11e7-89c6-beaa22385457.png)
+
 
 News Article on iPhone 7 plus
 
