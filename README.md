@@ -41,5 +41,11 @@ __________________________________________________________________
 ![iphone 7 plus copy 2](https://user-images.githubusercontent.com/14809215/31152573-c8eec266-a86a-11e7-98fc-82b04bd0b572.png)
 
 Simple calendar on iPhone 7 plus
+____________________________________________________________________
+![shopping list 3x](https://user-images.githubusercontent.com/14809215/31175959-23b748b6-a8df-11e7-88aa-6ac731e72df6.png)
+
+Shopping List on Ipad Pro
+_______________________________________________________________________
 
 Examples of UI using balsamiq here: https://github.com/leslieo23/balsamiq.git
+
