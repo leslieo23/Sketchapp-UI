@@ -46,6 +46,9 @@ ____________________________________________________________________
 
 Shopping List on Ipad Pro
 _______________________________________________________________________
+![desktop hd](https://user-images.githubusercontent.com/14809215/31178916-7534013a-a8e8-11e7-9913-dfc3bdb49148.png)
 
+Mock Client Design Website on HD Desktop
+_______________________________________________________________________
 Examples of UI using balsamiq here: https://github.com/leslieo23/balsamiq.git
 
