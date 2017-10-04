@@ -46,7 +46,7 @@ ____________________________________________________________________
 
 Shopping List on Ipad Pro
 _______________________________________________________________________
-![desktop hd](https://user-images.githubusercontent.com/14809215/31178916-7534013a-a8e8-11e7-9913-dfc3bdb49148.png)
+![desktop hd](https://user-images.githubusercontent.com/14809215/31204811-a1c22486-a93b-11e7-98f6-86c2024d387c.png)
 
 Mock Client Design Website on HD Desktop
 _______________________________________________________________________
