@@ -50,5 +50,10 @@ _______________________________________________________________________
 
 Mock Client Design Website on HD Desktop
 _______________________________________________________________________
+
+![group 3](https://user-images.githubusercontent.com/14809215/31252209-7365891c-a9ee-11e7-9ee3-0aecbca37bd6.png)
+
+Use of "Cards" on iPad Pro
+_______________________________________________________________________
 Examples of UI using balsamiq here: https://github.com/leslieo23/balsamiq.git
 
