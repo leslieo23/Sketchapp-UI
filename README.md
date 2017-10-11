@@ -58,5 +58,8 @@ _______________________________________________________________________
 ![group 2 3x](https://user-images.githubusercontent.com/14809215/31257118-cd0f42bc-aa04-11e7-91a3-eccefb94042e.png)
 Simple login/sign up page for tablet or mobile
 _______________________________________________________________________
+![group 4 3x](https://user-images.githubusercontent.com/14809215/31458802-2c306080-ae8f-11e7-919e-02a389eab783.png)
+Weather App Design 
+_______________________________________________________________________
 Examples of UI using balsamiq here: https://github.com/leslieo23/balsamiq.git
 
